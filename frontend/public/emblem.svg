@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Outer Gold Ring -->
+  <circle cx="50" cy="50" r="46" stroke="#C0392B" stroke-width="3" fill="#FFFBF5"/>
+  <circle cx="50" cy="50" r="41" stroke="#16324F" stroke-width="1.5" stroke-dasharray="2 2"/>
+  
+  <!-- Ashoka Chakra 24 Spokes -->
+  <g transform="translate(50,50)">
+    <circle cx="0" cy="0" r="28" stroke="#16324F" stroke-width="2.5" fill="#FFFFFF"/>
+    <circle cx="0" cy="0" r="5" fill="#16324F"/>
+    <!-- 24 Spokes -->
+    <path d="
+      M0,-28 L0,28 M-28,0 L28,0
+      M-19.8,-19.8 L19.8,19.8 M-19.8,19.8 L19.8,-19.8
+      M-7.2,-27 L7.2,27 M-14,-24.2 L14,24.2
+      M-24.2,-14 L24.2,14 M-27,-7.2 L27,7.2
+      M-27,7.2 L27,-7.2 M-24.2,14 L24.2,-14
+      M-14,24.2 L14,-24.2 M-7.2,27 L7.2,-27
+    " stroke="#16324F" stroke-width="1.2"/>
+  </g>
+  <!-- Saffron & Green Accent Arcs -->
+  <path d="M 20 18 A 44 44 0 0 1 80 18" stroke="#FF9933" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 20 82 A 44 44 0 0 0 80 82" stroke="#138808" stroke-width="4" stroke-linecap="round"/>
+</svg>

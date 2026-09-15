@@ -1,0 +1,6 @@
+{
+  "name": "SchemeSetu",
+  "description": "Public Digital Infrastructure bridging citizens to statutory government schemes, credit subsidies, and deterministic eligibility verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
