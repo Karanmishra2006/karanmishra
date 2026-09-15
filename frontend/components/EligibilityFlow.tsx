@@ -548,11 +548,7 @@ export const EligibilityFlow: React.FC<EligibilityFlowProps> = ({
                 <span>Secure • No Login Required</span>
               </div>
               <div className="flex items-center gap-3">
-                <img
-                  src={DOCUMENT_ICON_URL}
-                  alt="Official Paper Document"
-                  className="w-9 h-9 sm:w-10 sm:h-10 shrink-0 object-contain shadow-xs rounded"
-                />
+                <span className="text-4xl sm:text-5xl leading-none">📃</span>
                 <h2 className="font-heading text-2xl sm:text-3xl text-[#16324F] font-bold tracking-tight">
                   Tell Us About Your Needs
                 </h2>
@@ -797,11 +793,7 @@ export const EligibilityFlow: React.FC<EligibilityFlowProps> = ({
                 <span>Jurisdiction &amp; Occupation</span>
               </div>
               <div className="flex items-center gap-3">
-                <img
-                  src={DOCUMENT_ICON_URL}
-                  alt="Official Paper Document"
-                  className="w-9 h-9 sm:w-10 sm:h-10 shrink-0 object-contain shadow-xs rounded"
-                />
+                <span className="text-4xl sm:text-5xl leading-none">📃</span>
                 <h2 className="font-heading text-2xl sm:text-3xl text-[#16324F] font-bold tracking-tight">
                   Tell Us About Your Profile
                 </h2>
@@ -1418,11 +1410,7 @@ export const EligibilityFlow: React.FC<EligibilityFlowProps> = ({
                 <span>Rule-Based Evaluation Ready</span>
               </div>
               <div className="flex items-center gap-3">
-                <img
-                  src={DOCUMENT_ICON_URL}
-                  alt="Official Paper Document"
-                  className="w-9 h-9 sm:w-10 sm:h-10 shrink-0 object-contain shadow-xs rounded"
-                />
+               <span className="text-4xl sm:text-5xl leading-none">📃</span>
                 <h2 className="font-heading text-2xl sm:text-3xl text-[#16324F] font-bold tracking-tight">
                   Review Your Details
                 </h2>
